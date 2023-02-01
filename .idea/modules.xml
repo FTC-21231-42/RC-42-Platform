@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RC-42-Platform.iml" filepath="$PROJECT_DIR$/.idea/modules/RC-42-Platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/RC-42-Platform.FtcRobotController.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/RC-42-Platform.FtcRobotController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/RC-42-Platform.FtcRobotController.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/RC-42-Platform.FtcRobotController.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/RC-42-Platform.FtcRobotController.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/RC-42-Platform.FtcRobotController.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/RC-42-Platform.FtcRobotController.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/RC-42-Platform.FtcRobotController.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/RC-42-Platform.TeamCode.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/RC-42-Platform.TeamCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/RC-42-Platform.TeamCode.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/RC-42-Platform.TeamCode.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/RC-42-Platform.TeamCode.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/RC-42-Platform.TeamCode.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/RC-42-Platform.TeamCode.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/RC-42-Platform.TeamCode.unitTest.iml" />
+    </modules>
+  </component>
+</project>
